@@ -1,0 +1,16 @@
+{
+    "name": "brunomacedodev/buscador_cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "brunomacedodev",
+            "email": "macedodeoliveirabruno@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.4",
+        "symfony/dom-crawler": "^5.0",
+        "symfony/css-selector": "^5.0"
+    }
+}
